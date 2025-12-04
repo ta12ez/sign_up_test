@@ -1,10 +1,12 @@
 # sign_up_test
-##Description
+## Description
 This project is a simple Flutter implementation for the Register Test required by the company. It includes a clean UI for the registration screen along with the requested logic and the required future method.
-##Tech Stack
+
+## Tech Stack
 .Flutter
 .Dart
-##How to Run
+
+## How to Run
 
 1. Clone the repository:
 git clone https://github.com/your-username/your-repo-name.git
