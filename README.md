@@ -21,6 +21,6 @@ flutter run
 
 
 
-##Notes
+## Notes
 
 This project was created specifically for the company's technical test and includes only the required registration functionality.
