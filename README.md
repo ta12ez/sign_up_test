@@ -9,7 +9,7 @@ This project is a simple Flutter implementation for the Register Test required b
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ta12ez/sign_up_test.git
 
 
 2. Install dependencies:
